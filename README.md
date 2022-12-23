@@ -1,5 +1,4 @@
-#Tools and language used
-This project was done using Node and the interface using React.
+#This project was done using Node and the interface using React.
 
 To fully run the application with: api server, build-watch, and browsersync, use the following commands:
 
